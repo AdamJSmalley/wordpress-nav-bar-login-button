@@ -1,6 +1,6 @@
 # Jquery buttons to reveal hidden section
 
-This creates a "Log In / Register" link in wordpress's navigation bar when the user is not logged in. When they are logged in it displays "My Account" and "Log out" links. This has been created for my site [brainvitalitylab.com]([https://brainvitalitylab.com/]). Check it out to see an example.
+This creates a "Log In / Register" link in wordpress's navigation bar when the user is not logged in. When they are logged in it displays "My Account" and "Log out" links. This has been created for my site [brainvitalitylab.com](https://brainvitalitylab.com/). Check it out to see an example.
 
 ## Getting Started
 
